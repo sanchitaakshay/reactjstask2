@@ -1,4 +1,4 @@
 # reactjstask2
-server-->node server.js
-client-->npm run json-server
-client-->npm start
+1) server-->node server.js
+2) client-->npm run json-server
+3) client-->npm start
